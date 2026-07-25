@@ -3565,6 +3565,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C114433"
+			(at 113.03 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "282a780a-6fa9-44b5-a322-f7e532896bf8")
 		)
@@ -3726,6 +3737,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C19702"
+			(at 144.78 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "93450454-0557-49e7-8d15-e034ed8fc154")
 		)
@@ -3797,6 +3819,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 147.32 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 147.32 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -3964,6 +3997,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C2907113"
+			(at 105.41 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6d238564-ffc8-4ede-89c0-6ac2406b3d6e")
 		)
@@ -4034,6 +4078,17 @@
 			)
 		)
 		(property "Description" "ATX Power supply 24pins"
+			(at 76.2 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 76.2 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4350,19 +4405,8 @@
 				)
 			)
 		)
-		(property "Sim.Device" "NPN"
-			(at 113.03 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=B 2=E 3=C"
-			(at 113.03 87.63 0)
+		(property "LCSC" "C31776"
+			(at 113.03 87.63 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4458,19 +4502,8 @@
 				)
 			)
 		)
-		(property "Sim.Device" "NPN"
-			(at 162.56 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=B 2=E 3=C"
-			(at 162.56 86.36 0)
+		(property "LCSC" "C31776"
+			(at 162.56 86.36 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4554,6 +4587,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 109.22 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 109.22 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -4957,6 +5001,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C19702"
+			(at 127 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "61b27093-7e86-42e2-b2e3-b0233c1a650f")
 		)
@@ -5107,6 +5162,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 118.11 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 118.11 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -5352,6 +5418,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 187.96 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "19"
 			(uuid "199ff02f-d5d8-4280-8c18-2aaebdc10faf")
 		)
@@ -5477,6 +5554,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 128.27 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 128.27 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -5644,6 +5732,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C15849"
+			(at 153.67 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f4ec6279-c879-45a1-91fe-524fb6614819")
 		)
@@ -5715,6 +5814,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 137.16 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 137.16 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -5802,6 +5912,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C129952"
+			(at 135.89 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "844d868a-a704-4361-85ef-c11f3e336202")
 		)
@@ -5877,6 +5998,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 162.56 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2907113"
 			(at 162.56 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -6192,6 +6324,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 157.48 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 157.48 41.91 0)
 			(hide yes)
 			(show_name no)
