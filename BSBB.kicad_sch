@@ -9533,7 +9533,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7KΩ"
+		(property "Value" "2.2KΩ"
 			(at 194.056 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9576,7 +9576,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2907166"
+		(property "LCSC" "C2907005"
 			(at 198.12 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -9891,7 +9891,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7KΩ"
+		(property "Value" "2.2KΩ"
 			(at 201.93 40.386 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9934,7 +9934,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2907166"
+		(property "LCSC" "C2907005"
 			(at 205.74 43.18 0)
 			(hide yes)
 			(show_name no)
